@@ -1,0 +1,11 @@
+{
+  "name": "encode-club-solana-bootcamp-final-project",
+  "version": "1.0.0",
+  "repository": "https://github.com/eemreyazc201/encode-club-solana-bootcamp-final-project.git",
+  "author": "group-nine",
+  "license": "MIT",
+  "scripts": {
+    "frontend": "cd frontend && next dev &&  cd ..",
+    "build": "cd backend && anchor build && cd .."
+  }
+}

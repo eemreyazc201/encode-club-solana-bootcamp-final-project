@@ -1,0 +1,8 @@
+backend/.anchor
+backend/.DS_Store
+backend/target
+backend/**/*.rs.bk
+backend/test-ledger
+*/node_modules/
+*/.yarn
+frontend/.next
